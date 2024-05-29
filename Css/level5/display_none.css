@@ -1,0 +1,12 @@
+.div{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border-radius: 20%;
+    display: inline-block;
+    background-color: blue;
+    margin: 10px;
+}
+#div2{
+    display:none;
+}
